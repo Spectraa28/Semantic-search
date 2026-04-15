@@ -37,7 +37,7 @@ def initialize_database():
         batch_embeddings = model.encode(
             batch_texts,
             batch_size=64,
-            show_progress_bar=False
+            show_progress_bar=True
         ).tolist()
         
         collection.add(
