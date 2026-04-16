@@ -19,7 +19,7 @@ detection on the query embedding space.
 
 ---
 
-## Live Demo
+## Live Demo - halted for now 
 
 🔗 **API:** `https://semantic-search-v1-2.onrender.com`  
 📖 **Interactive Docs:** `https://semantic-search-v1-2.onrender.com/docs`
